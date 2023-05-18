@@ -1,3 +1,5 @@
+//Created by Brian Davis, April 2022
+
 #ifndef Proximity_h
 #define Proximity_h
 
